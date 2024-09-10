@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HHTestTask1", "HHTestTask1\HHTestTask1.csproj", "{E7F11554-5526-4B85-92B0-3CDD006C0359}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{1C7746D0-823C-4E8F-B3F4-7E6DBD8AFB4E}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{BDA61E70-125E-4AC9-967C-EB94C2598818}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7F11554-5526-4B85-92B0-3CDD006C0359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7F11554-5526-4B85-92B0-3CDD006C0359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7F11554-5526-4B85-92B0-3CDD006C0359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7F11554-5526-4B85-92B0-3CDD006C0359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C7746D0-823C-4E8F-B3F4-7E6DBD8AFB4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7746D0-823C-4E8F-B3F4-7E6DBD8AFB4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C7746D0-823C-4E8F-B3F4-7E6DBD8AFB4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C7746D0-823C-4E8F-B3F4-7E6DBD8AFB4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDA61E70-125E-4AC9-967C-EB94C2598818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA61E70-125E-4AC9-967C-EB94C2598818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA61E70-125E-4AC9-967C-EB94C2598818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA61E70-125E-4AC9-967C-EB94C2598818}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1943FD8-AAB9-489C-BB86-195B7F59809C}
+	EndGlobalSection
+EndGlobal
